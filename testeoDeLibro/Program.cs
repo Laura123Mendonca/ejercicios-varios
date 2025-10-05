@@ -72,6 +72,7 @@ namespace testeoDeLibro
 
 
             Console.WriteLine($"Fin de tarea");
+            console.WriteLine($"funciona el git");
             
             
 
@@ -173,6 +174,7 @@ namespace testeoDeLibro
 
 
     
+
 
 
 
