@@ -1,0 +1,11 @@
+C:\Users\laura\OneDrive\Escritorio\curso de trayecto de programacion\LauraCristinaMendonca\libro\obj\Debug\net8.0\Editorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\OneDrive\Escritorio\curso de trayecto de programacion\LauraCristinaMendonca\libro\obj\Debug\net8.0\Editorial.AssemblyInfoInputs.cache
+C:\Users\laura\OneDrive\Escritorio\curso de trayecto de programacion\LauraCristinaMendonca\libro\obj\Debug\net8.0\Editorial.AssemblyInfo.cs
+C:\Users\laura\OneDrive\Escritorio\curso de trayecto de programacion\LauraCristinaMendonca\libro\obj\Debug\net8.0\Editorial.csproj.CoreCompileInputs.cache
+C:\Users\laura\OneDrive\Escritorio\curso de trayecto de programacion\LauraCristinaMendonca\libro\bin\Debug\net8.0\Editorial.deps.json
+C:\Users\laura\OneDrive\Escritorio\curso de trayecto de programacion\LauraCristinaMendonca\libro\bin\Debug\net8.0\Editorial.dll
+C:\Users\laura\OneDrive\Escritorio\curso de trayecto de programacion\LauraCristinaMendonca\libro\bin\Debug\net8.0\Editorial.pdb
+C:\Users\laura\OneDrive\Escritorio\curso de trayecto de programacion\LauraCristinaMendonca\libro\obj\Debug\net8.0\Editorial.dll
+C:\Users\laura\OneDrive\Escritorio\curso de trayecto de programacion\LauraCristinaMendonca\libro\obj\Debug\net8.0\refint\Editorial.dll
+C:\Users\laura\OneDrive\Escritorio\curso de trayecto de programacion\LauraCristinaMendonca\libro\obj\Debug\net8.0\Editorial.pdb
+C:\Users\laura\OneDrive\Escritorio\curso de trayecto de programacion\LauraCristinaMendonca\libro\obj\Debug\net8.0\ref\Editorial.dll

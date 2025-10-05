@@ -1,0 +1,11 @@
+C:\Users\laura\OneDrive\Escritorio\curso de trayecto de programacion\LauraCristinaMendonca\libro\bin\Debug\net8.0\libro.deps.json
+C:\Users\laura\OneDrive\Escritorio\curso de trayecto de programacion\LauraCristinaMendonca\libro\bin\Debug\net8.0\libro.dll
+C:\Users\laura\OneDrive\Escritorio\curso de trayecto de programacion\LauraCristinaMendonca\libro\bin\Debug\net8.0\libro.pdb
+C:\Users\laura\OneDrive\Escritorio\curso de trayecto de programacion\LauraCristinaMendonca\libro\obj\Debug\net8.0\libro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\OneDrive\Escritorio\curso de trayecto de programacion\LauraCristinaMendonca\libro\obj\Debug\net8.0\libro.AssemblyInfoInputs.cache
+C:\Users\laura\OneDrive\Escritorio\curso de trayecto de programacion\LauraCristinaMendonca\libro\obj\Debug\net8.0\libro.AssemblyInfo.cs
+C:\Users\laura\OneDrive\Escritorio\curso de trayecto de programacion\LauraCristinaMendonca\libro\obj\Debug\net8.0\libro.csproj.CoreCompileInputs.cache
+C:\Users\laura\OneDrive\Escritorio\curso de trayecto de programacion\LauraCristinaMendonca\libro\obj\Debug\net8.0\libro.dll
+C:\Users\laura\OneDrive\Escritorio\curso de trayecto de programacion\LauraCristinaMendonca\libro\obj\Debug\net8.0\refint\libro.dll
+C:\Users\laura\OneDrive\Escritorio\curso de trayecto de programacion\LauraCristinaMendonca\libro\obj\Debug\net8.0\libro.pdb
+C:\Users\laura\OneDrive\Escritorio\curso de trayecto de programacion\LauraCristinaMendonca\libro\obj\Debug\net8.0\ref\libro.dll
